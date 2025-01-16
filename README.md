@@ -1,1 +1,1 @@
-
+Ce projet vise à améliorer la gestion des cultures agricoles grâce à l'analyse de données multi-sources. En combinant des données de monitoring en temps réel, des données météorologiques, et des données historiques, nous cherchons à fournir des outils d'aide à la décision pour les agriculteurs. Le projet comprend la création d'un tableau de bord interactif permettant de visualiser et d'analyser les données agricoles de manière intuitive.
